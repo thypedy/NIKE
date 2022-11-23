@@ -6,6 +6,6 @@ Um site demonstrativo da site do Nike para personalizar o READ.ME, um dos projet
 ## Autor: William weile Feng
 
 ## Captura de tela
-![plot](src/img/nike1.png)
-![plot](src/img/nike2.png)
-![plot](src/img/footer.png)
+![plot](src/nike1.png)
+![plot](src/nike2.png)
+![plot](src/footer.png)
