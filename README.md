@@ -3,7 +3,7 @@
 <h1 align="center">Site da Nike</h1>
 Um site demonstrativo da site do Nike para personalizar o READ.ME, um dos projetos feitos com o professor anterior
 
-## Autor: William weile Feng
+## Autores: Oliver Kanai de Trindade, William weile Feng
 
 ## Captura de tela
 ![plot](src/nike1.png)
